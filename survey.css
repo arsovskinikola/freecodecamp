@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blue;
+    color: white;
+}
+
+header {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+main {
+    background-color: darkblue;
+
+}
+
+/* main div {
+    margin-left: 35%;
+    margin-right: 35%;
+
+} */
